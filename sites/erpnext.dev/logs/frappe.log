@@ -1,0 +1,3 @@
+2025-02-14 13:08:44,823 ERROR frappe New Exception collected in error log
+Site: erpnext.dev
+Form Dict: {'company': 'Encircle Technologies', 'cmd': 'hrms.hr.utils.get_leave_period'}
